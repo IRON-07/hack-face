@@ -19,7 +19,7 @@
     .body > span {
         height: 5px;
         width: 35px;
-        background: #FFB6C1;
+        background: #fff;
         position: absolute;
         top: -19px;
         left: 60px;
@@ -40,7 +40,7 @@
         height: 22px;
         width: 22px;
         border-radius: 50%;
-        background: #FFB6C1;
+        background: #fff;
         position: absolute;
         right: -110px;
         top: -16px
