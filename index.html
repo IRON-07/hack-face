@@ -108,34 +108,17 @@
         }, 500)
     });
 </script>
-  <div class="wrapper">
-      <!-- Preloader -->
-    <div id="preloader">
-      <div class="spinner">
-        <div class="rect1"></div>
-        <div class="rect2"></div>
-        <div class="rect3"></div>
-        <div class="rect4"></div>
-        <div class="rect5"></div>
-      </div>
-  </div>
-      <div id="bg"></div>
-      <div class="content">
-        <header>
-          <h2 id="title"></h2>
-          <h4 id="desc"></h4>
-        </header>
-        <button id="yes" type="button" class="btn btn-danger btn-lg"> </button>
-        <button id="no" type="button" class="btn btn-info btn-lg"></button>
-      </div>
-    </div>
+ <!-- Bắt đầu lazyload -->
+<div class="heart-container">
+  <div class="heart"></div>
+</div>
+ <!-- Kết thúc lazyload -->
   </script>
         </div> 
     </div> 
     <div style="display:none">
       <audio id="audio" src="https://cdn.glitch.com/818a2872-406d-490e-bb2e-2ae11448ca25%2Fmusic.mp3?v=1628153023935" controls="controls" autoplay></audio>
     </div>
- <!-- Kết thúc Preloader -->
     <script>
         document.addEventListener('keydown', function (event) {
           if (event.keyCode === 13) {
