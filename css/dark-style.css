@@ -98,7 +98,7 @@ a {
 }
 
 .profile-below .left .follow{
-    background: linear-gradient(20deg,#2aabe8 -20%,#892ece 100%);
+    background: linear-gradient(20deg,#2aabe8 -20%,,#2aabe8 100%);
     padding: 10px 30px;
     text-align: center;
     border-radius: 100em;
