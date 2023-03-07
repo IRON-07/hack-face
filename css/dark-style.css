@@ -59,7 +59,7 @@ a {
     border-radius:50%;
     margin: 15px;
     padding: 5px;
-    box-shadow: 0 5px 20px 0 #7a41d2,0px 0 0 5px #7a41d2;
+    box-shadow: 0 5px 20px 0 #F1D6E9,0px 0 0 5px #F1D6E9;
 }
 
 .info {
@@ -98,7 +98,7 @@ a {
 }
 
 .profile-below .left .follow{
-    background: linear-gradient(20deg,#2aabe8 -20%,,#2aabe8 100%);
+    background: linear-gradient(20deg,#9B4E9E -20%,,#A5C1D4 100%);
     padding: 10px 30px;
     text-align: center;
     border-radius: 100em;
